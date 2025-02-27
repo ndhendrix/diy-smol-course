@@ -1,3 +1,7 @@
 wandb/
 */wandb/
 */sft_output/
+sft_output/
+smol_dpo_output/
+SmolLM2-FT-DPO/
+SmolLM2-FT-MyDataset/
