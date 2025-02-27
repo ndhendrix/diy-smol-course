@@ -1,0 +1,16 @@
+```{python}
+#| label: auth
+# Authenticate to Hugging Face
+from huggingface_hub import login
+
+login()
+```
+
+```{python}
+#| label: add-packages
+
+from transformers import AutoModelForCausalLM, AutoTokenizer
+from trl import setup_chat_format
+import torch
+
+```

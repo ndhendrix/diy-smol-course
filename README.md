@@ -1,2 +1,2 @@
 # DIY-SMOL-COURSE
-This is just my way of trying to get more from HuggingFace's [smol-course](https://github.com/huggingface/smol-course). 
+This is just my way of trying to get more from HuggingFace's [smol-course](https://github.com/huggingface/smol-course) by tweaking things here and there and adding my own little explorations.
